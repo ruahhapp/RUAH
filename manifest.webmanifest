@@ -1,0 +1,54 @@
+{
+  "name": "ruah",
+  "short_name": "ruah",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "36x36"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "48x48"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "72x72"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "96x96"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "100x100"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "114x114"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "120x120"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "144x144"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "152x152"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "167x167"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "180x180"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "192x192"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "512x512"
+      },{
+        "src": "426008f39a9758d2496fb07223b7569dddfb9d48eaa84acecaf61ee302e48fbd-IMG_2900.jpg",
+        "sizes": "1024x1024"
+      }]
+}
